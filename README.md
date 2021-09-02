@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Anushka Choudhary
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning IOT and ML
